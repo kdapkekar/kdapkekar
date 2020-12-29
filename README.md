@@ -1,6 +1,13 @@
 ## Hello, 
 
-I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from [University at Albany, SUNY](https://www.albany.edu/).
+I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from [University at Albany, SUNY](https://www.albany.edu/). I extremely enjoy applying my data analysis skills to extract insights from large datasets and visualize them in a meaningful story.
+
+- 🔭 I’m currently work on creating custom dashboards in Tableau...
+- 🌱 I’m currently learning Scala and Big Data
+- 👯 I’m looking to collaborate on any Data Science project
+- 😄 Pronouns: She/Her
+
+
 
 ## Contact
 
@@ -10,10 +17,10 @@ I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&loo=Python)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=flat-square&logo=r)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=flat-square&logo=R)
 ![Matlab](https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=flat-square&logo=scala)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=flat-square&logo=Scala)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,7 +28,7 @@ I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from
 
 ## Databases
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb)
 
