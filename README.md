@@ -46,6 +46,4 @@ I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX)
 
-## Top Languages Used
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdapkekar&hide=TeX&layout=compact)
