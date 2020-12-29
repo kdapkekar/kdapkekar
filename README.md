@@ -6,6 +6,7 @@ I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpita-dapkekar-79400712b/)
+[![Gmail Badge](https://img.shields.io/badge/-kalpitadapkekar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalpitadapkekar@gmail.com)](mailto:kalpitadapkekar@gmail.com)
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&loo=Python)
