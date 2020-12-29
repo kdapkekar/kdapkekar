@@ -24,10 +24,17 @@ I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb)
+
 ## Machine Learning
 
 ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas)
 ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy)
+
+## Deep Learning
+
+![](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras)
+![](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow)
+![](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=flat-square&logo=PyTorch)
 
 ## Technologies
 
