@@ -1,6 +1,6 @@
 ## Hello, 
 
-I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from [University at Albany](https://www.albany.edu/).
+I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from [University at Albany, SUNY](https://www.albany.edu/).
 
 
 ## ⚡ Technologies
