@@ -1,8 +1,5 @@
 ## Hello, 
 
-I am Kalpita Dapkekar, currently pursuing Master of Science in Data Science from [University at Albany, SUNY](https://www.albany.edu/). I extremely enjoy applying my data analysis skills to extract insights from large datasets and visualize them in a meaningful story.
-
-- 🔭 I currently work on creating custom dashboards in Tableau
 - 🌱 I’m currently learning Scala and Big Data
 - 👯 I’m looking to collaborate on any Data Science project
 - 😄 Pronouns: She/Her
